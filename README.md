@@ -5,16 +5,20 @@
 
 <br>
 
+![Sanghee's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sanghee0820&show_icons=true&layout=compact)
+
 ![Sanghee's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanghee0820&show_icons=true)
+
+
 
 ### 👍 My Blog
 <a href="https://velog.io/@sanghee0820"><img src="https://img.shields.io/badge/velog-1DBF73?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 
 ---
-### 📖 I'm Studying about this
+### 📖 I'm Studying about
 <br>
 
-**🖼️ FramWork**
+**🖼️ Framwork**
 
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=flat&logo=Spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?&style=flat&logo=Spring%20Boot&logoColor=white)
@@ -28,7 +32,7 @@
 ![Amazon EKS](https://img.shields.io/badge/Amazon%20EKS-FF9900.svg?&style=flat&logo=amazoneks&logoColor=white)
 ![Amazon ECR](https://img.shields.io/badge/Amazon%20ECR-FF9900.svg?&style=flat&logo=amazoneks&logoColor=white)
 
-**💾 DataBase**
+**💾 Database**
 
 ![ORACLE](https://img.shields.io/badge/ORACLE-F80000.svg?&style=flat&logo=oracle&logoColor=white)
 ![My SQL](https://img.shields.io/badge/My%20SQL-4479A1.svg?&style=flat&logo=mysql&logoColor=white)
