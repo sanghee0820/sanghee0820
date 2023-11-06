@@ -1,8 +1,9 @@
+<div align=center>
+  
 ![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=250&section=header&text=Sanghee's%20GitHub&fontSize=70)
 
 
 <br>
-<center>
 
 ![Sanghee's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanghee0820&show_icons=true)
 
@@ -33,4 +34,4 @@
 ![My SQL](https://img.shields.io/badge/My%20SQL-4479A1.svg?&style=flat&logo=mysql&logoColor=white)
 
 ---
-</center>
+</div>
