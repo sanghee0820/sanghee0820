@@ -6,7 +6,8 @@
 <br>
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=lsh277604)](https://solved.ac/lsh277604)
-![Sanghee's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sanghee0820&show_icons=true&layout=compact)
+
+[![Sanghee's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sanghee0820)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Sanghee's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanghee0820&show_icons=true)
 
