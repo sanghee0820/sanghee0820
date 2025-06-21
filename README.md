@@ -1,39 +1,24 @@
-<div align=center>
-  
-![header](https://capsule-render.vercel.app/api?type=shark&color=auto&customColorList=9&height=250&section=header&text=Sanghee's%20GitHub&fontSize=70)
+# 👨‍💻 Sanghee Lee (이상희) / Backend Developer
 
+## 💼 Experiences
 
-<br>
+- **인플레이스(INPLACE) / Backend Developer (2024.09 ~ ing) [[🔗 Github](https://github.com/team-inplace/inplace/tree/main/backend) / [🌐 Site](https://inplace.my)]
+- **[카카오 테크 캠퍼스(Kakao Tech Campus](https://www.kakaotechcampus.com/)** / Team Lead, Backend Developer (2024.04 - 2024.11)
+- **경북대학교(Kyungbook Nat’l Univ.)** / Dept. of Computer Science Engineering (2019.03 - 2025.02)
 
-![Sanghee's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanghee0820&show_icons=true)
+## 🛠️ Tech Stack
 
+- **Language**: Java, Kotlin([Studying](https://github.com/sanghee0820/kotlin-crud))
+- **Backend**: Spring Boot, JPA, QueryDSL
+- **Database**: MySQL  
+- **Infra/DevOps**: Docker, AWS, GitAction
+- **Test**: JUnit5
 
-### 👍 My Information
-![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=lsh277604)
-<a href="https://velog.io/@sanghee0820"><img src="https://img.shields.io/badge/velog-1DBF73?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+## 📫 Contact
 
----
-### 📖 I'm Studying about
-<br>
+- 📧 Email: [sanghee0820.dev@gmail.com](mailto:sanghee0820.dev@gmail.com)
+- 📝 Blog: [velog.io/@sanghee0820](https://velog.io/@sanghee0820) | [sanghee0820.github.io](https://sanghee0820.github.io/)
 
-**🖼️ Framwork**
+## 😎 Stats
 
-![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=flat&logo=Spring&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?&style=flat&logo=Spring%20Boot&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-326CE5.svg?&style=flat&logo=kubernetes&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20.svg?&style=flat&logo=apachekafka&logoColor=white)
-
-**☁️ Cloud Platform**
-
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?&style=flat&logo=amazonaws&logoColor=white)
-![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900.svg?&style=flat&logo=amazonec2&logoColor=white)
-![Amazon EKS](https://img.shields.io/badge/Amazon%20EKS-FF9900.svg?&style=flat&logo=amazoneks&logoColor=white)
-![Amazon ECR](https://img.shields.io/badge/Amazon%20ECR-FF9900.svg?&style=flat&logo=amazoneks&logoColor=white)
-
-**💾 Database**
-
-![ORACLE](https://img.shields.io/badge/ORACLE-F80000.svg?&style=flat&logo=oracle&logoColor=white)
-![My SQL](https://img.shields.io/badge/My%20SQL-4479A1.svg?&style=flat&logo=mysql&logoColor=white)
-
----
-</div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanghee0820)](https://github.com/sanghee0820/github-readme-stats)
