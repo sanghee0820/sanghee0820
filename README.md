@@ -2,7 +2,7 @@
 
 ## 💼 Experiences
 
-- **인플레이스(INPLACE) / Backend Developer (2024.09 ~ ing) [[🔗 Github](https://github.com/team-inplace/inplace/tree/main/backend) / [🌐 Site](https://inplace.my)]
+- **인플레이스(INPLACE)** / Backend Developer (2024.09 ~ ing) [[🔗 Github](https://github.com/team-inplace/inplace/tree/main/backend) / [🌐 Site](https://inplace.my)]
 - **[카카오 테크 캠퍼스(Kakao Tech Campus](https://www.kakaotechcampus.com/)** / Team Lead, Backend Developer (2024.04 - 2024.11)
 - **경북대학교(Kyungbook Nat’l Univ.)** / Dept. of Computer Science Engineering (2019.03 - 2025.02)
 
